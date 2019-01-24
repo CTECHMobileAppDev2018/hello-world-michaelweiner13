@@ -5,6 +5,7 @@
 class Main {
   public static void main(String[] args) {
   
+    // Mr. Bartucz is awesome!
     // Put your code here that prints out "Hello, world!"
     System.out.println("Hello, world!");
     
